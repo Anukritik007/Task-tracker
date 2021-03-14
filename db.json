@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Be Resume Ready",
+      "day": "Daily till 31st March",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Data Structures practice",
+      "day": "Daily",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Practise CSS",
+      "day": "Daily till 31st March",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
