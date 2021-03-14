@@ -9,7 +9,7 @@
     {
       "text": "Data Structures practice",
       "day": "Daily",
-      "reminder": false,
+      "reminder": true,
       "id": 2
     },
     {
